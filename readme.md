@@ -10,4 +10,4 @@
 
 *Creating landing page with selling part*
 
-*Building a calculator for *
+*Building a calculator for*
