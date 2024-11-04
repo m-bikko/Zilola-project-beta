@@ -1,6 +1,6 @@
 ****Tasks staring date 19.10****
 
-**Adress: Marbik from Almaty**
+**Adress: Zilola from Almaty**
 
 *Figma design period 7 days (19.10-26.10)*
 
